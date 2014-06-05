@@ -23,7 +23,7 @@ ntm <- CouncilSpend('nottingham')
 Downloading Files
 -----------------
 
-*Downloading manually*  
+###Downloading manually  
 Once the csv directory has been created, the files can be added to this file 
 manually, provided that they are named as follows:
 name of council + year (4 digits) + month (2 digits) + .csv
@@ -34,7 +34,7 @@ So for Nottingham's January 2013 file, it would be:
 It is sometimes easier to do it this way, so I would suggest right-clicking on 
 each link and then 'Save link as' according to the above naming system.
 
-*Downloading from a csv file/data frame*  
+###Downloading from a csv file/data frame  
 Alternatively, you can provide a data frame with the columns **year** 
 (4 digit number) and an integer for the **month**, then a url in the **link**
 column.
