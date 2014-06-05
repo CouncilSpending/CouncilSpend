@@ -40,3 +40,11 @@ Alternatively, you can provide a data frame with the columns **year**
 column.
 
 For Example:
+
+year|month|link
+----|-----|----
+2014|3|http://www.nottinghaminsight.org.uk/d/103523
+2014|2|http://www.nottinghaminsight.org.uk/d/104927
+2014|1|http://www.nottinghaminsight.org.uk/d/103522
+2013|12|http://www.nottinghaminsight.org.uk/d/105038
+2013|11|http://www.nottinghaminsight.org.uk/d/105153
